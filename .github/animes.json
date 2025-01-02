@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "genre": ["Ação", "Aventura"],
+    "synopsis": "Naruto é um jovem ninja com o sonho de se tornar Hokage...",
+    "status": "Concluído",
+    "studio": "Pierrot",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Enter: Naruto Uzumaki!",
+        "duration": "23m",
+        "release_date": "2002-10-03",
+        "url": "https://link-do-episodio.com/1"
+      },
+      {
+        "episode_number": 2,
+        "title": "My Name is Konohamaru!",
+        "duration": "23m",
+        "release_date": "2002-10-10",
+        "url": "https://link-do-episodio.com/2"
+      }
+    ]
+  }
+]
